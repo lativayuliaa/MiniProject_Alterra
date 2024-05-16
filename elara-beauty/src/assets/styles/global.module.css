@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Pacifico&display=swap');
+
+.logoFont {
+    font-family: 'Pacifico', cursive;
+}
+
+.descFont {
+    font-family: 'Caveat', cursive;
+}
+
+.titleFont {
+    font-family: 'Briem Hand', cursive;
+}
+
+.subtitle.Font{
+    font-family: 'Freeman', sans-serif;
+}
+
+.active {
+    background-color: orange; /* Ubah warna latar belakang sesuai keinginan Anda */
+    color: black; /* Ubah warna teks jika diperlukan */
+  }
+  
