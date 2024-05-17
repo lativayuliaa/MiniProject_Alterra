@@ -33,7 +33,7 @@ Proyek ini merupakan pembuatan situs web untuk klinik kecantikan Elara Beauty. S
 Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal:
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/lativayuliaa/elara-beauty.git
+   git clone https://github.com/lativayuliaa/MiniProject_Alterra/elara-beauty.git
    cd elara-beauty
    
 2. **Install dependencies:**
